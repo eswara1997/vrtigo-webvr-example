@@ -1,0 +1,15 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vrtigo-analytics": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
