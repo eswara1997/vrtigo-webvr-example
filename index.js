@@ -1,4 +1,5 @@
-import {addUserID, addAppID, addEvent} from 'vrtigo-analytics';
+import {addUserID, addAppID, addEvent, setPoseFrequency, setRenderFrequency, setBatteryFrequency} from 'vrtigo-analytics';
 
-console.log(addUserID);
-addUserID('user5@OCULUS.com')
+console.log(setRenderFrequency);
+console.log(setPoseFrequency);
+console.log(setBatteryFrequency);
